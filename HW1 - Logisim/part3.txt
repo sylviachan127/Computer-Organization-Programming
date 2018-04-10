@@ -1,0 +1,16 @@
+Name: Yuen Han Chan
+GTID: 902983019
+
+1a)  The value 1b is displayed on the register
+
+1b)  The value 11 is showing on the output pin
+
+2)  The value displayed on the register turns into 00 while the button is pressed down.
+
+3)  Nothing happened beside the number of the register turns into 55.
+
+4)  A red wire indicates the wire is carrying an error value
+
+5)  A blue wire indicates the wire is carrying a one-bit value while nothing is driving a specific value onto the wire.
+
+6)  True  
